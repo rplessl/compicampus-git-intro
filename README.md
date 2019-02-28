@@ -4,7 +4,7 @@ Welcome to my CompiCampus "Dive in to Git and GitHub" Course from 2019-02-28!
 
 I set up the class like this: First there will be a short input about Git and about the history of Git. Then you can take the written inputs and follow the exercises from the slide deck. In the form of an accompanied exercise.
 
-Have fun discovering Git, GitHub and GitHub Pages! And ask me, if any questions :-)
+Have fun discovering Git, GitHub and GitHub Pages! And ask me, if any questions :-) :raised_hands: 
 
 Cheers, Roman 
 
@@ -13,7 +13,6 @@ Cheers, Roman
 The slide deck has informational and exercises parts, the exercises are marked with red slides.
 
 [Slides and Exercises](https://github.com/rplessl/compicampus-git-intro/raw/master/docs/CompiCampus%20-%20Dive%20in%20to%20Git%20and%20GitHub%20-%202019-02-28.pdf)
-
 
 ## Agenda and Goals of the Course Today - 2019-02-28
 
@@ -35,6 +34,8 @@ https://github.com/rplessl, https://prunux.ch
 ### Public Link to Slide Source
  
 [Dive in Git and GitHub Slides in Google Presentation](https://docs.google.com/presentation/d/17xlAt8DQ5SuLHY08N82ziwVy5g9IYtJ5EzZS1ncvmjI/edit?usp=sharing)
+
+---
 
 ## License and Copyright
 
