@@ -42,7 +42,7 @@ Under the following terms:
 * No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
 
 
-Parts of the content in the slide are taken from guides.github.com and help.github.com, which are using the same CC BY 4.0 license. Thanks folks from github.com for your good documentation. 
+Parts of the content in the slide are taken from https://guides.github.com, https://help.github.com, and https://git-scm.com/book/en/v2, which are using the same CC BY 4.0 license or the Version 3. Thanks folks from https://github.com, Scott Chacon and Ben Straub, and all contributors for your good documentation. 
 
 [Dive in Git and GitHub Slides in Google Presentation](https://docs.google.com/presentation/d/17xlAt8DQ5SuLHY08N82ziwVy5g9IYtJ5EzZS1ncvmjI/edit?usp=sharing)
 
