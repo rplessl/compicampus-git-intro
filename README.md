@@ -8,7 +8,12 @@ Have fun discovering Git, GitHub and GitHub Pages! And ask me, if any questions 
 
 Cheers, Roman 
 
-https://github.com/rplessl, https://prunux.ch
+## Slides and Exercises
+
+The slide deck has informational and exercises parts, the exercises are marked with red slides.
+
+[Slides and Exercises](https://github.com/rplessl/compicampus-git-intro/raw/master/docs/CompiCampus%20-%20Dive%20in%20to%20Git%20and%20GitHub%20-%202019-02-28.pdf)
+
 
 ## Agenda and Goals of the Course Today - 2019-02-28
 
@@ -23,13 +28,15 @@ https://github.com/rplessl, https://prunux.ch
 6. How to use GitHub (II): Issues Tracking and Feature Requests, Task Management and Wiki, Insights and Settings
 7. Further Reading and Further Exercises
 
-## Slides and Exercises
+## About me
 
-The slide deck has informational and exercises parts, the exercises are marked with red slides.
+https://github.com/rplessl, https://prunux.ch
 
-[Slides and Exercises](https://github.com/rplessl/compicampus-git-intro/raw/master/docs/CompiCampus%20-%20Dive%20in%20to%20Git%20and%20GitHub%20-%202019-02-28.pdf)
+### Public Link to Slide Source
+ 
+[Dive in Git and GitHub Slides in Google Presentation](https://docs.google.com/presentation/d/17xlAt8DQ5SuLHY08N82ziwVy5g9IYtJ5EzZS1ncvmjI/edit?usp=sharing)
 
-## Copyright
+## License and Copyright
 
 My Material is licensed with the "Attribution 4.0 International (CC BY 4.0)" license.
 
@@ -41,9 +48,7 @@ Under the following terms:
 * Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
 * No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
 
-
 Parts of the content in the slide are taken from https://guides.github.com, https://help.github.com, and https://git-scm.com/book/en/v2, which are using the same CC BY 4.0 license or the Version 3. Thanks folks from https://github.com, Scott Chacon and Ben Straub, and all contributors for your good documentation. 
 
-[Dive in Git and GitHub Slides in Google Presentation](https://docs.google.com/presentation/d/17xlAt8DQ5SuLHY08N82ziwVy5g9IYtJ5EzZS1ncvmjI/edit?usp=sharing)
 
 
