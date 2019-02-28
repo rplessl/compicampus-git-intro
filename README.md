@@ -1,10 +1,10 @@
 # Welcome to the CompiCampus Dive in to Git and Github 
 
-Welcome to my CompiCampus "Dive in to Git and GitHub" Course!
+Welcome to my CompiCampus "Dive in to Git and GitHub" Course from 2019-02-28!
 
 I set up the class like this: First there will be a short input about Git and about the history of Git. Then you can take the written inputs and follow the exercises from the slide deck. In the form of an accompanied exercise.
 
-Have fun discovering Git, GitHub and GitHub Pages! 
+Have fun discovering Git, GitHub and GitHub Pages! And ask me, if any questions :-)
 
 Cheers, Roman 
 
