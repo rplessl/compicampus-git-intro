@@ -6,7 +6,9 @@ I set up the class like this: First there will be a short input about Git and ab
 
 Have fun discovering Git, GitHub and GitHub Pages! 
 
-Roman Plessl, https://github.com/rplessl, https://prunux.ch
+Cheers, Roman 
+
+https://github.com/rplessl, https://prunux.ch
 
 ## Agenda and Goals of the Course Today - 2019-02-28
 
