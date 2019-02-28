@@ -25,7 +25,7 @@ Roman Plessl, @rplessl, https://prunux.ch
 
 The slide deck has informational and exercises parts, the exercises are marked with red slides.
 
-[Slides and Exercises] (https://github.com/rplessl/compicampus-git-intro/raw/master/docs/CompiCampus%20-%20Dive%20in%20to%20Git%20and%20GitHub%20-%202019-02-28.pdf)
+[Slides and Exercises](https://github.com/rplessl/compicampus-git-intro/raw/master/docs/CompiCampus%20-%20Dive%20in%20to%20Git%20and%20GitHub%20-%202019-02-28.pdf)
 
 ## Copyright
 
@@ -42,6 +42,6 @@ Under the following terms:
 
 Parts of the content in the slide are taken from guides.github.com and help.github.com, which are using the same CC BY 4.0 license. Thanks folks from github.com for your good documentation. 
 
-[Dive in Slides in Google Presentation] (https://docs.google.com/presentation/d/17xlAt8DQ5SuLHY08N82ziwVy5g9IYtJ5EzZS1ncvmjI/edit?usp=sharing)
+[Dive in Git and GitHub Slides in Google Presentation](https://docs.google.com/presentation/d/17xlAt8DQ5SuLHY08N82ziwVy5g9IYtJ5EzZS1ncvmjI/edit?usp=sharing)
 
 
