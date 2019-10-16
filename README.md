@@ -57,4 +57,4 @@ Image of [Local and Remote Repositories](http://blog.podrezo.com/wp-content/uplo
 
 ---
 
-Created with :heart: by Roman Plessl, prunux.ch and last updated on {% page.date | date: "%-d %B %Y" %}
+Created with :heart: by Roman Plessl, prunux.ch and last updated on 2019-10-16
