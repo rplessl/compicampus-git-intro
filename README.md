@@ -1,6 +1,6 @@
 # Welcome to the CompiCampus Dive in to Git and Github
 
-Welcome to my CompiCampus "Dive in to Git and GitHub" Course from 2019-10-17!
+Welcome to my CompiCampus "Dive in to Git and GitHub" Course from 2019-11-06!
 
 I set up the class like this: First there will be a short input about Git and about the history of Git. Then you can take the written inputs, learn the most important Git commands and follow the exercises for Git, GitHub and GitHub Pages from the slide deck. In the form of an accompanied exercise.
 
@@ -14,7 +14,7 @@ And ask me, if any questions :-) :raised_hands:
 
 The slide deck has informational and exercises parts, the exercises are marked with red slides.
 
-[Slides and Exercises](https://github.com/rplessl/compicampus-git-intro/blob/master/docs/CompiCampus%20-%20Dive%20in%20to%20Git%20and%20GitHub%20-%202019-10-17.pdf)
+[Slides and Exercises](https://github.com/rplessl/compicampus-git-intro/blob/master/docs/CompiCampus%20-%20Dive%20in%20to%20Git%20and%20GitHub%20-%202019-11-06.pdf)
 
 ## Agenda and Goals of the Course Today - 2019-10-17
 
@@ -35,7 +35,7 @@ https://github.com/rplessl, https://prunux.ch
 
 ### Public Link to Slide Source
 
-[Dive in Git and GitHub Slides in Google Presentation](https://docs.google.com/presentation/d/11V8yZjLFc8Lm-IHuCXc3408wpgaYjeFJTR-ZKSwCkUs/edit?usp=sharing)
+[Dive in Git and GitHub Slides in Google Presentation](https://docs.google.com/presentation/d/1S13HZEKG4v8g_U3beziG5aGrmRgA1tif4lyQCorbcUQ/edit?usp=sharing)
 
 ---
 
@@ -57,4 +57,4 @@ Image of [Local and Remote Repositories](http://blog.podrezo.com/wp-content/uplo
 
 ---
 
-Created with :heart: by Roman Plessl, prunux.ch and last updated on 2019-10-16
+Created with :heart: by Roman Plessl, prunux.ch and last updated on 2019-11-06
