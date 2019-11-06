@@ -16,7 +16,7 @@ The slide deck has informational and exercises parts, the exercises are marked w
 
 [Slides and Exercises](https://github.com/rplessl/compicampus-git-intro/blob/master/docs/CompiCampus%20-%20Dive%20in%20to%20Git%20and%20GitHub%20-%202019-11-06.pdf)
 
-## Agenda and Goals of the Course Today - 2019-10-17
+## Agenda and Goals of the Course Today - 2019-11-06
 
 1. Git - Introduction to version control systems, History of Git
 2. Install Git / Use Git at ETH
