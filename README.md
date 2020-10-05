@@ -21,11 +21,13 @@ The slide deck has informational and exercises parts, the exercises are marked w
 1. Git - Introduction to Version Control Systems, History of Git
 2. Learning Path and Exercises based on your knowledge and experience with Git / GitHub / VCS
 3. A lot of practical Exercises:
-   a. Basic Git Workflow, Basic Git Commands
-   b. Create a GitHub Account, create new Repositories
-   c. How to use GitHub, How to use local Git with GitHub
-   d. Working with Git branches
-   e. Interact with each other’s and other coders: Git Branching, Code Changes and Commits, Pull Requests, Merging, Comments
+
+    a. Basic Git Workflow, Basic Git Commands
+    b. Create a GitHub Account, create new Repositories
+    c. How to use GitHub, How to use local Git with GitHub
+    d. Working with Git branches
+    e. Interact with each other’s and other coders: Git Branching, Code Changes and Commits, Pull Requests, Merging, Comments
+
 4. Host your personal, organization, and project sites with GitHub Pages.
 5. How to use GitHub (II): Issues Tracking and Feature Requests, Task Management and Wiki, Insights and Settings
  
