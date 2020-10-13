@@ -1,6 +1,6 @@
 # Welcome to the CompiCampus Dive in to Git and Github
 
-Welcome to my CompiCampus "Dive in to Git and GitHub" Course from 2020-10-07!
+Welcome to my CompiCampus "Dive in to Git and GitHub" Course from 2020-10-14!
 
 I set up the class like this: First there will be a short input about Git and about the history of Git. Then you can take the written inputs, learn the most important Git commands and follow the exercises for Git, GitHub and GitHub Pages from the slide deck. In the form of an accompanied exercise.
 
@@ -14,9 +14,9 @@ And ask me, if any questions :-) :raised_hands:
 
 The slide deck has informational and exercises parts, the exercises are marked with red slides.
 
-[Slides and Exercises](https://github.com/rplessl/compicampus-git-intro/blob/master/docs/CompiCampus%20-%20Dive%20in%20to%20Git%20and%20GitHub%20-%202020-10-07.pdf)
+[Slides and Exercises](https://github.com/rplessl/compicampus-git-intro/blob/master/docs/CompiCampus%20-%20Dive%20in%20to%20Git%20and%20GitHub%20-%202020-10-14.pdf)
 
-## Agenda and Goals of the Course Today - 2019-10-07
+## Agenda and Goals of the Course Today - 2019-10-14
 
 1. Git - Introduction to Version Control Systems, History of Git
 2. Learning Path and Exercises based on your knowledge and experience with Git / GitHub / VCS
