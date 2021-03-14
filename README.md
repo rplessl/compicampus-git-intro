@@ -1,33 +1,34 @@
 # Welcome to the CompiCampus Dive in to Git and Github
 
-Welcome to my CompiCampus "Dive in to Git and GitHub" Course from 2020-10-14!
+Welcome to my CompiCampus "Dive in to Git and GitHub" virtual Classroom from 2021-03-15!
 
-I set up the class like this: First there will be a short input about Git and about the history of Git. Then you can take the written inputs, learn the most important Git commands and follow the exercises for Git, GitHub and GitHub Pages from the slide deck. In the form of an accompanied exercise.
+I set up the course like this: First there will be an input about Git, GitHub including some details about the history and design goals of Git. Then you can take the inputs, learn the most important Git commands and follow the exercises for Git and GitHub from the slide deck. With the goal to learn how to use both Web and command line tools.  The second part of the course will be in the form of an accompanied exercise.
 
-Have fun discovering Git, GitHub and GitHub Pages :smile:!
+Have fun discovering Git and GitHub with it's overwhelming features :smile:!
 
 Cheers, Roman
 
-And ask me, if any questions :-) :raised_hands:
 
 ## Slides and Exercises
 
 The slide deck has informational and exercises parts, the exercises are marked with red slides.
 
-[Slides and Exercises](https://github.com/rplessl/compicampus-git-intro/blob/master/docs/CompiCampus%20-%20Dive%20in%20to%20Git%20and%20GitHub%20-%202020-10-14.pdf)
+[Slides and Exercises](https://github.com/rplessl/compicampus-git-intro/blob/master/docs/CompiCampus%20-%20Dive%20in%20to%20Git%20and%20GitHub%20-%202021-03-15.pdf)
 
-## Agenda and Goals of the Course Today - 2019-10-14
+## Agenda and Goals of the Course Today - 2021-03-15
 
-1. Git - Introduction to Version Control Systems, History of Git
-2. Learning Path and Exercises based on your knowledge and experience with Git / GitHub / VCS
-3. A lot of practical Exercises:
+1. Git - Introduction to Version Control Systems, Git and GitHub 
+2. Learning Path and Exercises based on your knowledge and experience with Git and GitHub
+3. A lot of practical Exercises: 
    1. Basic Git Workflow, Basic Git Commands
    2. Create a GitHub Account, create new Repositories
    3. How to use GitHub, How to use local Git with GitHub
    4. Working with Git branches
-   5. Interact with each other’s and other coders: Git Branching, Code Changes and Commits, Pull Requests, Merging, Comments
-4. Host your personal, organization, and project sites with GitHub Pages.
-5. How to use GitHub (II): Issues Tracking and Feature Requests, Task Management and Wiki, Insights and Settings
+   5. Interact with each other’s and other coders: 
+   6. Git Branching, Code Changes and Commits, Pull Requests, Merging, Comments
+4. How to use GitHub (II):
+   1. Host your personal, organization, and project sites with GitHub Pages.
+   2. Issues Tracking and Feature Requests, Actions, Task Management and Wiki, and more :)
  
 
 ## About me
@@ -36,7 +37,7 @@ https://github.com/rplessl, https://prunux.ch
 
 ### Public Link to Slide Source
 
-[Dive in Git and GitHub Slides in Google Presentation](https://docs.google.com/presentation/d/1Y2cGmMPHFYcVj98PjJbdCVxmyq3qlyT8EBGf5eNrTnI/edit?usp=sharing)
+[Dive in Git and GitHub Slides in Google Presentation](https://docs.google.com/presentation/d/1-Wir4wuIbqr-D3CdV3hVVZPXTxuEvSH2WhxzOmImXnk/edit?usp=sharing)
 
 ---
 
@@ -58,4 +59,4 @@ Image of [Local and Remote Repositories](http://blog.podrezo.com/wp-content/uplo
 
 ---
 
-Created with :heart: by Roman Plessl, prunux.ch and last updated on 2020-10-05
+Created with :heart: by Roman Plessl, prunux.ch and last updated on 2021-01-14
