@@ -1,6 +1,6 @@
 # Welcome to the CompiCampus Dive in to Git and Github
 
-Welcome to my CompiCampus "Dive in to Git and GitHub" virtual Classroom from 2021-03-15!
+Welcome to my CompiCampus "Dive in to Git and GitHub" virtual Classroom from 2021-10-04!
 
 I set up the course like this: First there will be an input about Git, GitHub including some details about the history and design goals of Git. Then you can take the inputs, learn the most important Git commands and follow the exercises for Git and GitHub from the slide deck. With the goal to learn how to use both Web and command line tools.  The second part of the course will be in the form of an accompanied exercise.
 
@@ -13,9 +13,9 @@ Cheers, Roman
 
 The slide deck has informational and exercises parts, the exercises are marked with red slides.
 
-[Slides and Exercises](https://github.com/rplessl/compicampus-git-intro/blob/master/docs/CompiCampus%20-%20Dive%20in%20to%20Git%20and%20GitHub%20-%202021-03-15.pdf)
+[Slides and Exercises](https://github.com/rplessl/compicampus-git-intro/blob/master/docs/CompiCampus%20-%20Dive%20in%20to%20Git%20and%20GitHub%20-%202021-10-04.pdf)
 
-## Agenda and Goals of the Course Today - 2021-03-15
+## Agenda and Goals of the Course Today - 2021-10-4
 
 1. Git - Introduction to Version Control Systems, Git and GitHub 
 2. Learning Path and Exercises based on your knowledge and experience with Git and GitHub
@@ -37,7 +37,7 @@ https://github.com/rplessl, https://prunux.ch
 
 ### Public Link to Slide Source
 
-[Dive in Git and GitHub Slides in Google Presentation](https://docs.google.com/presentation/d/1-Wir4wuIbqr-D3CdV3hVVZPXTxuEvSH2WhxzOmImXnk/edit?usp=sharing)
+[Dive in Git and GitHub Slides in Google Presentation](https://docs.google.com/presentation/d/1AH5TO2r-lfJb_pdh1NxD0k5FXIcVmLOHSN2140dUqqY/edit?usp=sharing)
 
 ---
 
@@ -59,4 +59,4 @@ Image of [Local and Remote Repositories](http://blog.podrezo.com/wp-content/uplo
 
 ---
 
-Created with :heart: by Roman Plessl, prunux.ch and last updated on 2021-01-14
+Created with :heart: by Roman Plessl, prunux.ch and last updated on 2021-10-03
