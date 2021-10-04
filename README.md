@@ -33,7 +33,9 @@ The slide deck has informational and exercises parts, the exercises are marked w
 
 ## About me
 
-[github.com/rplessl](https://github.com/rplessl]), [nuvibit.com](https://nuvibit.com), [prunux.ch](https://prunux.ch)
+* [github.com/rplessl](https://github.com/rplessl])
+* [nuvibit.com](https://nuvibit.com)
+* [prunux.ch](https://prunux.ch)
 
 ### Public Link to Slide Source
 
