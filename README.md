@@ -33,7 +33,7 @@ The slide deck has informational and exercises parts, the exercises are marked w
 
 ## About me
 
-https://github.com/rplessl, https://prunux.ch
+https://github.com/rplessl, https://nuvibit.com, https://prunux.ch
 
 ### Public Link to Slide Source
 
