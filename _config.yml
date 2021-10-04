@@ -1,4 +1,4 @@
-remote_theme: broccolini/swiss
+remote_theme: pmarsceill/just-the-docs
 # remote_theme: pages-themes/minimal@v0.2.0
 
 plugins:
