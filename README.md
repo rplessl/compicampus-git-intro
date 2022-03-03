@@ -14,6 +14,7 @@ Cheers, Roman
 The slide deck has informational and exercises parts, the exercises are marked with red slides.
 
 [Slides and Exercises](https://github.com/rplessl/compicampus-git-intro/raw/master/docs/CompiCampus%20-%20Dive%20in%20to%20Git%20and%20GitHub%20-%202022-03-03.pdf)
+
 [Slides and Exercises (Viewer in GitHub)](https://github.com/rplessl/compicampus-git-intro/blob/master/docs/CompiCampus%20-%20Dive%20in%20to%20Git%20and%20GitHub%20-%202022-03-03.pdf)
 
 ## Agenda and Goals of the Course Today - 2022-03-03
