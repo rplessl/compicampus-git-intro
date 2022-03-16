@@ -1,6 +1,6 @@
 # Welcome to the CompiCampus Dive in to Git and Github
 
-Welcome to my CompiCampus "Dive in to Git and GitHub" virtual Classroom from 2022-03-03!
+Welcome to my CompiCampus "Dive in to Git and GitHub" virtual Classroom from 2022-03-16!
 
 I set up the course like this: First there will be an input about Git, GitHub including some details about the history and design goals of Git. Then you can take the inputs, learn the most important Git commands and follow the exercises for Git and GitHub from the slide deck. With the goal to learn how to use both Web and command line tools.  The second part of the course will be in the form of an accompanied exercise.
 
@@ -63,4 +63,4 @@ Image of [Local and Remote Repositories](http://blog.podrezo.com/wp-content/uplo
 
 ---
 
-Created with :heart: by Roman Plessl, prunux.ch and last updated on 2022-03-03
+Created with :heart: by Roman Plessl, prunux.ch and last updated on 2022-03-16
