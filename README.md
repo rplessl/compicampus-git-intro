@@ -2,9 +2,9 @@
 
 Welcome to my CompiCampus "Dive in to Git and GitHub" Classroom from 2022-10-12!
 
-I set up the course like this: 
+I set up the course like this:
 
-First there will be an input about Git, GitHub including some details about the history and design goals of Git. Then you can take the inputs, learn the most important Git commands and follow the exercises for Git and GitHub from the slide deck. With the goal to learn how to use both Web and command line tools. 
+First there will be an input about Git, GitHub including some details about the history and design goals of Git. Then you can take the inputs, learn the most important Git commands and follow the exercises for Git and GitHub from the slide deck. With the goal to learn how to use both Web and command line tools.
 
 The second part of the course will be in the form of an accompanied exercise.
 
@@ -23,19 +23,19 @@ The slide deck has informational and exercises parts, the exercises are marked w
 
 ## Agenda and Goals of the Course Today - 2022-10-12
 
-1. Git - Introduction to Version Control Systems, Git and GitHub 
+1. Git - Introduction to Version Control Systems, Git and GitHub
 2. Learning Path and Exercises based on your knowledge and experience with Git and GitHub
-3. A lot of practical Exercises: 
+3. A lot of practical Exercises:
    1. Basic Git Workflow, Basic Git Commands
    2. Create a GitHub Account, create new Repositories
    3. How to use GitHub, How to use local Git with GitHub
    4. Working with Git branches
-   5. Interact with each other’s and other coders: 
+   5. Interact with each other’s and other coders:
    6. Git Branching, Code Changes and Commits, Pull Requests, Merging, Comments
 4. How to use GitHub (II):
    1. Host your personal, organization, and project sites with GitHub Pages.
    2. Issues Tracking and Feature Requests, Actions, Task Management and Wiki, and more :)
- 
+
 
 ## About me
 
