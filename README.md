@@ -13,9 +13,9 @@ Have fun discovering Git and GitLab/GitHub with it's overwhelming features :smil
 Cheers, Roman
 
 
-## Intro to Git and GitLab
+# Intro to Git and GitLab
 
-### Slides and Exercises for Dive in to Git and GitLab
+## Slides and Exercises for Dive in to Git and GitLab
 
 The slide deck has informational and exercises parts, the exercises are marked with red slides.
 
@@ -23,7 +23,7 @@ The slide deck has informational and exercises parts, the exercises are marked w
 
 [Slides and Exercises (Viewer in GitHub)](https://github.com/rplessl/compicampus-git-intro/blob/master/docs/CompiCampus%20-%20Dive%20in%20to%20Git%20and%20GitLab%20-%202022-10-17.pdf)
 
-### Agenda and Goals of the Course Today - 2022-10-17
+## Agenda and Goals of the Course Today - 2022-10-17
 
 1. Git - Introduction to Version Control Systems, Git and GitHub
 2. Learning Path and Exercises based on your knowledge and experience with Git and GitHub
@@ -38,12 +38,12 @@ The slide deck has informational and exercises parts, the exercises are marked w
    1. Host your personal, organization, and project sites with GitHub Pages.
    2. Issues Tracking and Feature Requests, Actions, Task Management and Wiki, and more :)
 
-### Public Link to Slide Source
+## Public Link to Slide Source
 
 [Dive in Git and GitLab Slides in Google Presentation](https://docs.google.com/presentation/d/1FmP6ZOypvz3MiRkU7Q0N6tdP96i6n6gyMvH5T3RInLo/edit?usp=sharing)
 
 
-## Intro to Git and GitHub
+# Intro to Git and GitHub
 
 ## Slides and Exercises for Dive in to Git and GitHub
 
@@ -70,16 +70,16 @@ The slide deck has informational and exercises parts, the exercises are marked w
    2. Issues Tracking and Feature Requests, Actions, Task Management and Wiki, and more :)
 
 
-## About me
+## Public Link to Slide Source
+
+[Dive in Git and GitHub Slides in Google Presentation](https://docs.google.com/presentation/d/1p11ehYNbOYlN-q_oFjBC86GVhdMCby6TbJXvXWrS-6s/edit?usp=sharing)
+
+# About me
 
 * [github.com/rplessl](https://github.com/rplessl])
 * [gitlab.com/rplessl](https://gitlab.com/rplessl])
 * [nuvibit.com](https://nuvibit.com)
 * [plessl-burkhardt.ch](https://plessl-burkhardt.ch)
-
-### Public Link to Slide Source
-
-[Dive in Git and GitHub Slides in Google Presentation](https://docs.google.com/presentation/d/1p11ehYNbOYlN-q_oFjBC86GVhdMCby6TbJXvXWrS-6s/edit?usp=sharing)
 
 ---
 
@@ -101,4 +101,4 @@ Image of [Local and Remote Repositories](http://blog.podrezo.com/wp-content/uplo
 
 ---
 
-Created with :heart: by Roman Plessl, prunux.ch and last updated on 2022-10-12
+Created with :heart: by Roman Plessl, prunux.ch and last updated on 2022-10-17
