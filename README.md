@@ -76,8 +76,8 @@ The slide deck has informational and exercises parts, the exercises are marked w
 
 # About me
 
-* [github.com/rplessl](https://github.com/rplessl])
-* [gitlab.com/rplessl](https://gitlab.com/rplessl])
+* [github.com/rplessl](https://github.com/rplessl)
+* [gitlab.com/rplessl](https://gitlab.com/rplessl)
 * [nuvibit.com](https://nuvibit.com)
 * [plessl-burkhardt.ch](https://plessl-burkhardt.ch)
 
