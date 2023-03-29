@@ -1,10 +1,10 @@
-# Welcome to the CompiCampus Dive in to Git and GitLab / GitHub
+# Welcome to the CompiCampus Dive in to Git and GitHub or GitLab
 
-Welcome to my CompiCampus "Dive in to Git and GitLab" Classroom from 2022-10-17 and "Dive in to Git and GitHub" Classroom from 2022-10-12!
+Welcome to my CompiCampus "Dive in to Git and GitHub / GitLab" Classroom from 2023-03-29!
 
 I set up the course like this:
 
-First there will be an input about Git, GitHub/GitLab including some details about the history and design goals of Git. Then you can take the inputs, learn the most important Git commands and follow the exercises for Git and GitHub from the slide deck. With the goal to learn how to use both Web and command line tools.
+First there will be an input about Git, GitHub / GitLab including some details about the history and design goals of Git. Then you can take the inputs, learn the most important Git commands and follow the exercises for Git and GitHub from the slide deck. With the goal to learn how to use both Web and command line tools.
 
 The second part of the course will be in the form of an accompanied exercise.
 
@@ -19,11 +19,11 @@ Cheers, Roman
 
 The slide deck has informational and exercises parts, the exercises are marked with red slides.
 
-[Slides and Exercises (Download)](https://github.com/rplessl/compicampus-git-intro/raw/master/docs/CompiCampus%20-%20Dive%20in%20to%20Git%20and%20GitLab%20-%202022-10-17.pdf)
+[Slides and Exercises (Download)](https://github.com/rplessl/compicampus-git-intro/raw/master/docs/CompiCampus%20-%20Dive%20in%20to%20Git%20and%20GitLab%20-%202023-03-29.pdf)
 
-[Slides and Exercises (Viewer in GitHub)](https://github.com/rplessl/compicampus-git-intro/blob/master/docs/CompiCampus%20-%20Dive%20in%20to%20Git%20and%20GitLab%20-%202022-10-17.pdf)
+[Slides and Exercises (Viewer in GitHub)](https://github.com/rplessl/compicampus-git-intro/blob/master/docs/CompiCampus%20-%20Dive%20in%20to%20Git%20and%20GitLab%20-%202023-03-29.pdf)
 
-## Agenda and Goals of the Course Today - 2022-10-17
+## Agenda and Goals of the Course Today - 2023-03-29
 
 1. Git - Introduction to Version Control Systems, Git and GitHub
 2. Learning Path and Exercises based on your knowledge and experience with Git and GitHub
@@ -40,7 +40,7 @@ The slide deck has informational and exercises parts, the exercises are marked w
 
 ## Public Link to Slide Source
 
-[Dive in Git and GitLab Slides in Google Presentation](https://docs.google.com/presentation/d/1FmP6ZOypvz3MiRkU7Q0N6tdP96i6n6gyMvH5T3RInLo/edit?usp=sharing)
+[Dive in Git and GitLab Slides in Online Powerpoint](https://cutt.ly/h4C8gHa)
 
 
 # Intro to Git and GitHub
@@ -49,12 +49,12 @@ The slide deck has informational and exercises parts, the exercises are marked w
 
 The slide deck has informational and exercises parts, the exercises are marked with red slides.
 
-[Slides and Exercises (Download)](https://github.com/rplessl/compicampus-git-intro/raw/master/docs/CompiCampus%20-%20Dive%20in%20to%20Git%20and%20GitHub%20-%202022-10-12.pdf)
+[Slides and Exercises (Download)](https://github.com/rplessl/compicampus-git-intro/raw/master/docs/CompiCampus%20-%20Dive%20in%20to%20Git%20and%20GitHub%20-%202023-03-29.pdf)
 
 
-[Slides and Exercises (Viewer in GitHub)](https://github.com/rplessl/compicampus-git-intro/blob/master/docs/CompiCampus%20-%20Dive%20in%20to%20Git%20and%20GitHub%20-%202022-10-12.pdf)
+[Slides and Exercises (Viewer in GitHub)](https://github.com/rplessl/compicampus-git-intro/blob/master/docs/CompiCampus%20-%20Dive%20in%20to%20Git%20and%20GitHub%20-%202023-03-29.pdf)
 
-## Agenda and Goals of the Course Today - 2022-10-12
+## Agenda and Goals of the Course Today - 2023-03-29
 
 1. Git - Introduction to Version Control Systems, Git and GitHub
 2. Learning Path and Exercises based on your knowledge and experience with Git and GitHub
@@ -72,7 +72,7 @@ The slide deck has informational and exercises parts, the exercises are marked w
 
 ## Public Link to Slide Source
 
-[Dive in Git and GitHub Slides in Google Presentation](https://docs.google.com/presentation/d/1p11ehYNbOYlN-q_oFjBC86GVhdMCby6TbJXvXWrS-6s/edit?usp=sharing)
+[Dive in Git and GitHub Slides in Online Powerpoint](https://cutt.ly/i4C8RvZ)
 
 # About me
 
@@ -101,4 +101,4 @@ Image of [Local and Remote Repositories](http://blog.podrezo.com/wp-content/uplo
 
 ---
 
-Created with :heart: by Roman Plessl, prunux.ch and last updated on 2022-10-17
+Created with :heart: by Roman Plessl, prunux.ch and last updated on 2023-03-29
